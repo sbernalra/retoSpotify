@@ -16,6 +16,7 @@ public class ValidacionReproduccion implements Question<Boolean> {
     @Override
     public Boolean answeredBy(Actor actor) {
         WebElementFacade cancion = TXT_ARTISTA.resolveFor(actor);
+        System.out.println(cancion.getText());
         return cancion.isDisplayed();
     }
     public static Question<Boolean>from(){

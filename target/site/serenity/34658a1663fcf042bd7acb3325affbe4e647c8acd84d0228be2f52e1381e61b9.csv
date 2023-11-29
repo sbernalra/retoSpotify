@@ -1,6 +1,6 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
 "Reproducir cancion en Spotify","Busqueda de cancion en spotify.","PENDING","2023-11-24T10:19:31.197-05:00[America/Bogota]","0.0","13.62"
 "Reproducir cancion en Spotify","Reproducir de cancion en spotify.","FAILURE","2023-11-24T13:20:03.848-05:00[America/Bogota]","0.0","25.69"
-"Reproducir cancion en Spotify","Reproducir de cancion en spotify.","SUCCESS","2023-11-24T16:30:04.97-05:00[America/Bogota]","0.0","21.25"
+"Reproducir cancion en Spotify","Reproducir de cancion en spotify.","SUCCESS","2023-11-29T17:59:30.441-05:00[America/Bogota]","0.0","19.92"
 "login en Spotify de manera exitoza.","Login exitoso.","SUCCESS","2023-11-24T09:46:17.108-05:00[America/Bogota]","0.0","14.38"
 "login en Spotify de manera exitoza.","login exitoso","SUCCESS","2023-11-24T14:03:56.217-05:00[America/Bogota]","0.0","16.24"

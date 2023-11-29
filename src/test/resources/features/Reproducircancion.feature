@@ -8,4 +8,4 @@
     Escenario: Reproducir de cancion en spotify.
       Cuando el usuario escriba el nombre de la cancion
       Y seleccionar la cancion elegida
-      Entonces se reproduce la cancion
+      Entonces se visualiza el nombre del artista

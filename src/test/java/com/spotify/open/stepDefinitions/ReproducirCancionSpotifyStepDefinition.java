@@ -22,8 +22,8 @@ public class ReproducirCancionSpotifyStepDefinition {
         theActorInTheSpotlight().attemptsTo(PaginaDeBusquedayReproduccionSpotify.on());
 
     }
-    @Entonces("se reproduce la cancion")
-    public void seReproduceLaCancion() {
+    @Entonces("se visualiza el nombre del artista")
+    public void seVisualizaElNombreDelArtista() {
         theActorInTheSpotlight().should(
                 seeThat(
                         ValidacionReproduccion.from(), Matchers.equalTo(true)
